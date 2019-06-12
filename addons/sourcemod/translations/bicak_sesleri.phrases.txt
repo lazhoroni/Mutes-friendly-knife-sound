@@ -1,0 +1,29 @@
+"Phrases"
+{
+	"Eklenti-Kapali-Mesaji"
+	{
+		"#format"	"{1:s}"
+		// {1} : tag - bs_eklenti_tagi cvarı
+		"tr"		"{darkred}{1}{green} Bu eklenti {olive}kapalıdır{green}."
+	}
+	"Bicak-Sesli-Kapandi-Mesaji-Chat"
+	{
+		"#format"	"{1:s}"
+		// {1} : tag - bs_eklenti_tagi cvarı
+		"tr"		"{darkred}{1} {green}Bıçak sesleri {olive}kapalı{green} olarak ayarlandı."
+	}
+	"Bicak-Sesli-Kapandi-Mesaji-Center"
+	{
+		"tr"		"Bıçak sesleri kapalı olarak ayarlandı."
+	}
+	"Bicak-Sesli-Acildi-Mesaji-Chat"
+	{
+		"#format"	"{1:s}"
+		// {1} : tag - bs_eklenti_tagi cvarı
+		"tr"		"{darkred}{1} {green}Bıçak sesleri {olive}açık{green} olarak ayarlandı."
+	}
+	"Bicak-Sesli-Acildi-Mesaji-Center"
+	{
+		"tr"		"Bıçak sesleri açık olarak ayarlandı."
+	}
+}

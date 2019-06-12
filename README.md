@@ -8,3 +8,9 @@ Useful for Jailbreak and Zombie Mod/Escape servers.
 More info in the allied modders thread
 
 https://forums.alliedmods.net/showthread.php?p=2619214
+
+# Not:
+
+- Çeviri dosyası eklendi. Sohbet mesajlarını addons/sourcemod/translations klasöründeki dosyadan değişebilirsiniz.
+
+- Eklenti kurulduktan sonra cfg/sourcemod klasörüne bicak_sesleri.cfg dosyası oluşacaktır. Bu dosyadan eklenti taglarını değişebilirsiniz.
